@@ -1,7 +1,7 @@
 {
   "name": "bjunicon",
   "version": "1.0.0",
-  "description": "北京联通",
+  "description": "node_koa2 demo",
   "main": "app.js",
   "scripts": {
     "dev": "node bin/www",
